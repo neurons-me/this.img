@@ -6,7 +6,6 @@
     "destination": "./docs",
     "template": "../../../../../../Sandbox/dev_tools/assets/better-docs",
     "readme": "./README.md"
-
   },
   "templates": {
     "cleverLinks": false,
@@ -19,11 +18,11 @@
           ]
         }
     },
-    "better-docs": {
-        "name": "this.img",
-        "title": "Docs for this.img", 
-        "css": "style.css",
-        "trackingCode": "-",
+  "better-docs": {
+  "name": "this.img",
+  "title": "Docs for this.img", 
+  "css": "style.css",
+  "trackingCode": "-",
   "hideGenerator": false,
   "navLinks": [
     {
