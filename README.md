@@ -1,13 +1,11 @@
 <img src="https://docs.neurons.me/media/all-this/webP/this.img.webp" alt="SVG Image" width="250" height="250">
 
 # THIS.IMG
-
 > Designed to **standardize image data,** transforming it into a **structured format** that is readily accessible and interpretable by machine learning models.
 
 # Getting Started:
 
 ##### **Install `this.img`:**
-
 Open your terminal and run the following command to install the `this.me` package:
 
 ```bash
@@ -15,13 +13,11 @@ npm install this.img
 ```
 
 ##### **Import `this.img` in Your Project:**
-
 In the JavaScript file where you want to use `this.img`, import the `thisImg` class.
 
 ```js
 import thisImg from 'this.img';
 ```
-
 
 
 # Simple Integration Example:
@@ -68,12 +64,10 @@ thisImg(imagePath, PRESETS.highResGray256)
 You can use these presets directly by referencing their names when calling the `thisImg` function
 
 ### Handling Color Channels
-
 - **RGB (Color)**: 3 channels (standard for colored images)
 - **Grayscale**: 1 channel (used for reducing computational load or when color is not informative)
 
 ## this.img.browser.js
-
 Returns an **HTMLImageElement** that can be used on a canvas.
  This function supports loading from both URLs and Blob objects.
 
@@ -88,13 +82,10 @@ Returns an **HTMLImageElement** that can be used on a canvas.
 **[this.me](https://docs.neurons.me/this.me/index.html)  - [this.audio](https://docs.neurons.me/this.audio/index.html) - [this.text](https://docs.neurons.me/this.text/index.html) - [this.wallet](https://docs.neurons.me/this.wallet/index.html) - [this.img](https://docs.neurons.me/this.img/index.html) - [this.pixel](https://docs.neurons.me/this.pixel/index.html) - [be.this](https://docs.neurons.me/be.this/index.html) - [this.DOM](https://docs.neurons.me/this.DOM/index.html) - [this.env](https://docs.neurons.me/this.env/index.html) - [this.GUI](https://docs.neurons.me/this.GUI/index.html) - [this.be](https://docs.neurons.me/this.be/index.html) - [this.video](https://docs.neurons.me/this.video/index.html) - [this.dictionaries](https://docs.neurons.me/this.dictionaries/index.html)** 
 
 #### Contribution
-
 If you are interested in collaborating or wish to share your insights, please feel free to reach out or contribute to the project.
 
 #### License & Policies
-
-- **License**: MIT License (see LICENSE for details).
-
+- **License**: MIT License.
 - **Learn more** at **https://docs.neurons.me**
 
   [Terms](https://docs.neurons.me/terms-and-conditions) | [Privacy](https://docs.neurons.me/privacy-policy)
